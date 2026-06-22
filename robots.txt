@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://misexecutivevp.github.io/Valmi_Products/sitemap.xml
